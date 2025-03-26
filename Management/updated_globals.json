@@ -1,0 +1,34 @@
+{
+  "_": {
+    "postman_variable_scope": "globals",
+    "postman_exported_at": "2024-09-23T22:01:33.264Z",
+    "postman_exported_using": "Postman/11.13.1"
+  },
+  "id": "10123565-aaf7-436a-8726-e72f89d36a71",
+  "name": "Globals",
+  "values": [
+    {
+      "type": "any",
+      "value": "https://business.transfiya.com.co/ext/prb/ext/transfiya/v1",
+      "key": "base-url"
+    },
+    {
+      "type": "any",
+      "value": "236dfe767d6e6fa613058cc5cf5afe04",
+      "key": "client_id"
+    },
+    {
+      "type": "any",
+      "value": "14f9f06fe6f5a995651f54bb9ec51371",
+      "key": "client_secret"
+    },
+    {
+      "type": "any",
+      "value": "AAIgMjM2ZGZlNzY3ZDZlNmZhNjEzMDU4Y2M1Y2Y1YWZlMDRwpngW9BBiTfGhE88MVA_oRVfZZYXfiD-CvXAVAeYPG4pgI0Pcknf6lB1uMoSZbXzI9fdAA4HfSNWRdSAbjHcrgwbMbZG-oXVXSaUq_RkWMzZ6EIRXnO69w-wjW9Hc7kE",
+      "key": "access_token"
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2024-09-24T14:40:20.109Z",
+  "_postman_exported_using": "Newman/6.1.3"
+}
