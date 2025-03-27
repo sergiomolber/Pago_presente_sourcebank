@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "9ab3d705-638d-43ab-af45-52eef089dab8",
+		"_postman_id": "0bc2c940-9888-4487-b432-8c44988aa8c3",
 		"name": "anulacion happypath",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29460625",
-		"_collection_link": "https://red-satellite-829132.postman.co/workspace/PAGO-PRESENTE-AUTENTICACION~3f42c9d4-328d-4e07-9bfb-42673fee6924/collection/29460625-9ab3d705-638d-43ab-af45-52eef089dab8?action=share&source=collection_link&creator=29460625"
+		"_collection_link": "https://red-satellite-829132.postman.co/workspace/pruebas-presente~2ddec344-6c80-40af-a408-09f9f1b4b366/collection/29460625-0bc2c940-9888-4487-b432-8c44988aa8c3?action=share&source=collection_link&creator=29460625"
 	},
 	"item": [
 		{
@@ -57,7 +57,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"package\": {\r\n    \"type\": \"COLLECTION\",\r\n    \"createDate\": \"2023-01-03T23:47:26.186Z\",\r\n    \"packageId\": \"{{$randomPassword}}\",\r\n    \"sourceId\": \"65c242c3-1ea6-45c4-a71f-a41538ded408\"\r\n  },\r\n  \"transfers\": [\r\n    {\r\n      \"transferId\": \"{{$randomPassword}}\",\r\n      \"source\": \"$573003004001\",\r\n      \"target\": \"wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV\",\r\n      \"amount\": 100.00,\r\n      \"description\": \"Transferencia pago de compra.\",\r\n      \"targetBank\": \"AG1525AXCS\",\r\n      \"merchantId\": \"89dc15a5-6140-4694-804e-531076307041\",\r\n      \"sourceChannel\": \"POS\",\r\n      \"sourceId\": \"d0508e8b-3065-467f-990c-dc1b2aea8944\",\r\n      \"createDate\": \"2023-01-03T23:47:26.186Z\"\r\n    }\r\n    \r\n  ]\r\n}",
+					"raw": "{\r\n  \"package\": {\r\n    \"type\": \"COLLECTION\",\r\n    \"createDate\": \"2023-01-03T23:47:26.186Z\",\r\n    \"packageId\": \"{{$randomUUID}}\",\r\n    \"sourceId\": \"65c242c3-1ea6-45c4-a71f-a41538ded408\"\r\n  },\r\n  \"transfers\": [\r\n    {\r\n      \"transferId\": \"{{$randomUUID}}\",\r\n      \"source\": \"$573003004001\",\r\n      \"target\": \"wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV\",\r\n      \"amount\": 100.00,\r\n      \"description\": \"Transferencia pago de compra.\",\r\n      \"targetBank\": \"AG1525AXCS\",\r\n      \"merchantId\": \"89dc15a5-6140-4694-804e-531076307041\",\r\n      \"sourceChannel\": \"POS\",\r\n      \"sourceId\": \"d0508e8b-3065-467f-990c-dc1b2aea8944\",\r\n      \"createDate\": \"2023-01-03T23:47:26.186Z\"\r\n    }\r\n    \r\n  ]\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

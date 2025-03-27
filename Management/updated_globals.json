@@ -1,34 +1,49 @@
 {
   "_": {
     "postman_variable_scope": "globals",
-    "postman_exported_at": "2024-09-23T22:01:33.264Z",
-    "postman_exported_using": "Postman/11.13.1"
+    "postman_exported_at": "2025-02-19T15:57:41.274Z",
+    "postman_exported_using": "Postman/11.32.3"
   },
-  "id": "10123565-aaf7-436a-8726-e72f89d36a71",
+  "id": "a812427a-b9f6-4c03-82a5-18e86f60ed75",
   "name": "Globals",
   "values": [
     {
       "type": "any",
-      "value": "https://business.transfiya.com.co/ext/prb/ext/transfiya/v1",
+      "value": "https://business.transfiya.com.co/ach/pib/ext/transfiya/v1",
       "key": "base-url"
     },
     {
       "type": "any",
-      "value": "236dfe767d6e6fa613058cc5cf5afe04",
+      "value": "9d8132da5c61f7214e2c7efce6c6d455",
       "key": "client_id"
     },
     {
       "type": "any",
-      "value": "14f9f06fe6f5a995651f54bb9ec51371",
+      "value": "ee35121ee6bff61010101a072bb730b9",
       "key": "client_secret"
     },
     {
       "type": "any",
-      "value": "AAIgMjM2ZGZlNzY3ZDZlNmZhNjEzMDU4Y2M1Y2Y1YWZlMDRwpngW9BBiTfGhE88MVA_oRVfZZYXfiD-CvXAVAeYPG4pgI0Pcknf6lB1uMoSZbXzI9fdAA4HfSNWRdSAbjHcrgwbMbZG-oXVXSaUq_RkWMzZ6EIRXnO69w-wjW9Hc7kE",
+      "value": "AAIgOWQ4MTMyZGE1YzYxZjcyMTRlMmM3ZWZjZTZjNmQ0NTVZyfVjYhF4_h8CnOdNRCnkUDXfumtujk2-mLy2kJlxzoWGSgU01Av61JSBGkNoAUu2I2utSQQCnKelwVullqf4T7eiaZ9MDFo4uBgvwUkuv3XWrlp72AUq7H9t61lQSXg",
       "key": "access_token"
+    },
+    {
+      "type": "any",
+      "value": "227aa339da1424116c8583e24da2582d",
+      "key": "client_id_callback"
+    },
+    {
+      "type": "any",
+      "value": "03098a8edac2e247e968ff3901cf2814",
+      "key": "client_secret_callback"
+    },
+    {
+      "type": "any",
+      "value": "",
+      "key": "access_token_callback"
     }
   ],
   "_postman_variable_scope": "globals",
-  "_postman_exported_at": "2024-09-24T14:40:20.109Z",
+  "_postman_exported_at": "2025-03-26T22:59:46.193Z",
   "_postman_exported_using": "Newman/6.1.3"
 }
