@@ -621,13 +621,13 @@
 					}
 				],
 				"url": {
-					"raw": "{{base-url}}/transfer/XqCCzHWlj5QFlfx/reject",
+					"raw": "{{base-url}}/transfer/01GR4WTP60CpEWunm/reject",
 					"host": [
 						"{{base-url}}"
 					],
 					"path": [
 						"transfer",
-						"XqCCzHWlj5QFlfx",
+						"01GR4WTP60CpEWunm",
 						"reject"
 					]
 				}
