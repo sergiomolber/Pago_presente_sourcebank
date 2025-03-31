@@ -1,0 +1,23 @@
+{
+  "package": {
+    "type": "COLLECTION",
+    "createDate": null,
+    "packageId": null,
+    "sourceId": "65c242c3-1ea6-45c4-a71f-a41538ded408"
+  },
+  "transfers": [
+    {
+      "transferId": "0a42f393-34a5-49d6-a112-a254f84e37d5",
+      "source": "$573003004001",
+      "target": "wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV",
+      "amount": 100,
+      "description": "Transferencia pago de compra.",
+      "targetBank": "AG1525AXCS",
+      "merchantId": "AG1525AXCS",
+      "sourceChannel": "PRUEBA",
+      "sourceId": null,
+      "createDate": null
+    }
+    
+  ]
+}
