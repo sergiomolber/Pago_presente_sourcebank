@@ -1,1 +1,0 @@
-level: log, messages: Comentario del caso de prueba: ,Validar campo sourceId al exceder la longitud maxima (36 caracteres)

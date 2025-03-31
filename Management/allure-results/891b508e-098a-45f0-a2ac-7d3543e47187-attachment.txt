@@ -1,1 +1,0 @@
-level: log, messages: Comentario del caso de prueba: ,Validar campo sourceChannel al exceder la longitud maxima (20 caracteres)

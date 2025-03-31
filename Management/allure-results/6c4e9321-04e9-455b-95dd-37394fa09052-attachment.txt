@@ -1,1 +1,0 @@
-level: log, messages: Comentario del caso de prueba: ,Validar campo amount al enviarlo con valor igual a 0
