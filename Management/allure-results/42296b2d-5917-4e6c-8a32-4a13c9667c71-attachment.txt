@@ -1,1 +1,0 @@
-level: log, messages: Comentario del caso de prueba: ,Validar campo targetBank al enviarlo con datos nulos

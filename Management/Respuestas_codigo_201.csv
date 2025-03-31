@@ -1,4 +1,4 @@
-﻿message-uid,createDate,packageId,transferId,description,targetBank,merchantId,createDate1,comentario
+﻿message-uid,createDate,packageId,transferId2,description,targetBank,merchantId,createDate1,comentario
 null,"""2023-01-03T23:47:26.186Z""","""{{$randomUUID}}""","""{{$randomUUID}}""","""Transferencia pago de compra""","""AG1525AXCS""","""89dc15a5-6140-4694-804e-531076307041""",null,Validar campo message-uid al enviarlo con datos nulos
 c9813ba4-52ee-4c10-9228-a0268529d626,null,"""{{$randomUUID}}""","""{{$randomUUID}}""","""Transferencia pago de compra""","""AG1525AXCS""","""89dc15a5-6140-4694-804e-531076307041""",null,Validar campo createDate al enviarlo con datos nulos
 c9813ba4-52ee-4c10-9228-a0268529d626,"""""","""{{$randomUUID}}""","""{{$randomUUID}}""","""Transferencia pago de compra""","""AG1525AXCS""","""89dc15a5-6140-4694-804e-531076307041""",null,Validar campo createDate al enviarlo vacio

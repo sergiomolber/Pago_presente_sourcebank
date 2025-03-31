@@ -1,10 +1,10 @@
 {
 	"info": {
-		"_postman_id": "57eda2dc-5427-45b5-b4f8-cdc6f96788ca",
+		"_postman_id": "3d520461-fdba-48ad-adb5-e67d51e38022",
 		"name": "Respuestas Codigos 201",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "29460625",
-		"_collection_link": "https://red-satellite-829132.postman.co/workspace/PAGO-PRESENTE-AUTENTICACION~3f42c9d4-328d-4e07-9bfb-42673fee6924/collection/29460625-57eda2dc-5427-45b5-b4f8-cdc6f96788ca?action=share&source=collection_link&creator=29460625"
+		"_collection_link": "https://red-satellite-829132.postman.co/workspace/Pago-presente-ambiente-pruebas~be2f81e5-b0d7-46c5-b35f-4cd7d925a708/collection/29460625-3d520461-fdba-48ad-adb5-e67d51e38022?action=share&source=collection_link&creator=29460625"
 	},
 	"item": [
 		{
@@ -50,7 +50,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"package\": {\r\n    \"type\": \"COLLECTION\",\r\n    \"createDate\": {{createDate}},\r\n    \"packageId\": {{packageId}},\r\n    \"sourceId\": \"65c242c3-1ea6-45c4-a71f-a41538ded408\"\r\n  },\r\n  \"transfers\": [\r\n    {\r\n      \"transferId\": {{transferId}},\r\n      \"source\": \"wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV\",\r\n      \"target\": \"$573003004001\",\r\n      \"amount\": 100.00,\r\n      \"description\": {{description}},\r\n      \"targetBank\": {{targetBank}},\r\n      \"merchantId\": {{merchantId}},\r\n      \"sourceChannel\": \"POS\",\r\n      \"sourceId\": \"d0508e8b-3065-467f-990c-dc1b2aea8944\",\r\n      \"createDate\": {{createDate1}}\r\n    }\r\n    \r\n  ]\r\n}\r\n\r\n/* En esta coleccion se ejecutan los siguientes casos de prueba\r\n\r\nValidar campo message-uid al enviarlo con datos nulos\r\nValidar campo createDate al enviarlo vacio\r\nValidar campo createDate al enviarlo con datos nulos\r\nValidar campo packageId al enviarlo vacio\r\nValidar campo packageId al enviarlo con datos nulos\r\nValidar campo transferId al enviarlo vacio\r\nValidar campo transferId al enviarlo con datos nulos\r\nValidar campo description al enviarlo vacio\r\nValidar campo description al enviarlo con datos nulos\r\nValidar campo targetBank al enviarlo vacio\r\nValidar campo targetBank al enviarlo con datos nulos\r\nValidar campo merchantId al enviarlo vacio\r\nValidar campo merchantId al enviarlo con datos nulos\r\nValidar campo createDate al enviarlo vacio\r\nValidar campo createDate al enviarlo con datos nulos\r\n\r\n*/",
+					"raw": "{\r\n  \"package\": {\r\n    \"type\": \"COLLECTION\",\r\n    \"createDate\": {{createDate}},\r\n    \"packageId\": {{packageId}},\r\n    \"sourceId\": \"65c242c3-1ea6-45c4-a71f-a41538ded408\"\r\n  },\r\n  \"transfers\": [\r\n    {\r\n      \"transferId\": {{transferId2}},\r\n      \"source\": \"$573003004001\",\r\n      \"target\": \"wcc7vHUcnYpJcba8eiqEmmARtR3cS1PGfV\",\r\n      \"amount\": 100.00,\r\n      \"description\": {{description}},\r\n      \"targetBank\": {{targetBank}},\r\n      \"merchantId\": {{merchantId}},\r\n      \"sourceChannel\": \"POS\",\r\n      \"sourceId\": \"d0508e8b-3065-467f-990c-dc1b2aea8944\",\r\n      \"createDate\": {{createDate1}}\r\n    }\r\n    \r\n  ]\r\n}\r\n\r\n/* En esta coleccion se ejecutan los siguientes casos de prueba\r\n\r\nValidar campo message-uid al enviarlo con datos nulos\r\nValidar campo createDate al enviarlo vacio\r\nValidar campo createDate al enviarlo con datos nulos\r\nValidar campo packageId al enviarlo vacio\r\nValidar campo packageId al enviarlo con datos nulos\r\nValidar campo transferId al enviarlo vacio\r\nValidar campo transferId al enviarlo con datos nulos\r\nValidar campo description al enviarlo vacio\r\nValidar campo description al enviarlo con datos nulos\r\nValidar campo targetBank al enviarlo vacio\r\nValidar campo targetBank al enviarlo con datos nulos\r\nValidar campo merchantId al enviarlo vacio\r\nValidar campo merchantId al enviarlo con datos nulos\r\nValidar campo createDate al enviarlo vacio\r\nValidar campo createDate al enviarlo con datos nulos\r\n\r\n*/",
 					"options": {
 						"raw": {
 							"language": "json"
